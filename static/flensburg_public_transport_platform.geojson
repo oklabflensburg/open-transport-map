@@ -1,0 +1,6031 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-10-08T22:03:56Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/261584817",
+        "highway": "bus_stop",
+        "name": "Raiffeisenstraße",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3966079,
+          54.7788597
+        ]
+      },
+      "id": "node/261584817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312510259",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Südermarkt",
+        "public_transport": "platform",
+        "route_ref": "2;10;11",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4363336,
+          54.7825672
+        ]
+      },
+      "id": "node/312510259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313355359",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Twedter Plack",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "route_ref": "3,7,10,11",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4722038,
+          54.8158013
+        ]
+      },
+      "id": "node/313355359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313355605",
+        "highway": "bus_stop",
+        "name": "Twedter Plack",
+        "public_transport": "platform",
+        "route_ref": "3,21",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4718776,
+          54.8159297
+        ]
+      },
+      "id": "node/313355605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313356661",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Kiefernweg",
+        "public_transport": "platform",
+        "ref": "10,11",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.481051,
+          54.8102872
+        ]
+      },
+      "id": "node/313356661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313360045",
+        "highway": "bus_stop",
+        "name": "Friedheim",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.47392,
+          54.8053624
+        ]
+      },
+      "id": "node/313360045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313360118",
+        "highway": "bus_stop",
+        "name": "Hildebrandstraße",
+        "public_transport": "platform",
+        "ref": "3,7",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4670664,
+          54.8078756
+        ]
+      },
+      "id": "node/313360118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313360205",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Marrensberg",
+        "public_transport": "platform",
+        "route_ref": "7,10,11",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4778685,
+          54.8137674
+        ]
+      },
+      "id": "node/313360205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313360270",
+        "highway": "bus_stop",
+        "name": "Osterallee/Eibenweg",
+        "public_transport": "platform",
+        "ref": "10,11",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4808334,
+          54.8053931
+        ]
+      },
+      "id": "node/313360270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313360344",
+        "highway": "bus_stop",
+        "name": "Osterkoppel",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4810885,
+          54.8151311
+        ]
+      },
+      "id": "node/313360344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313360438",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Tannenweg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4732451,
+          54.8078199
+        ]
+      },
+      "id": "node/313360438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/314372954",
+        "highway": "bus_stop",
+        "name": "Tremmerup",
+        "public_transport": "platform",
+        "ref": "7",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4867009,
+          54.8136125
+        ]
+      },
+      "id": "node/314372954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317169166",
+        "highway": "bus_stop",
+        "name": "Solitüde Gaststätte",
+        "public_transport": "platform",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4883431,
+          54.8206848
+        ]
+      },
+      "id": "node/317169166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317425261",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Angelburger Straße",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4388927,
+          54.7826987
+        ]
+      },
+      "id": "node/317425261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321419626",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Kreuzlücke",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4728166,
+          54.7819464
+        ]
+      },
+      "id": "node/321419626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/366909958",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Mühlendamm",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.441235,
+          54.777469
+        ]
+      },
+      "id": "node/366909958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/366909959",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Mühlendamm",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4412862,
+          54.7773749
+        ]
+      },
+      "id": "node/366909959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/366909960",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Campus Hochschule",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.446899,
+          54.7751237
+        ]
+      },
+      "id": "node/366909960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/366909961",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Campus Hochschule",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.447088,
+          54.7751198
+        ]
+      },
+      "id": "node/366909961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367041998",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Munketoft",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.438136,
+          54.7779284
+        ]
+      },
+      "id": "node/367041998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367041999",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Munketoft",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.438363,
+          54.7778934
+        ]
+      },
+      "id": "node/367041999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367042003",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Flensburg Bahnhof",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4369629,
+          54.7748169
+        ]
+      },
+      "id": "node/367042003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367661578",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Walzenmühle",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4280194,
+          54.796923
+        ]
+      },
+      "id": "node/367661578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368199752",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Campusbad",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4520997,
+          54.7764225
+        ]
+      },
+      "id": "node/368199752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368199753",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Campusbad",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4524568,
+          54.7763061
+        ]
+      },
+      "id": "node/368199753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368199754",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Campus/Universität",
+        "public_transport": "platform",
+        "ref": "4; 5; 8",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45528,
+          54.7766745
+        ]
+      },
+      "id": "node/368199754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368199755",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Campus/Universität",
+        "public_transport": "platform",
+        "ref": "4; 5; 8",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4578542,
+          54.7767726
+        ]
+      },
+      "id": "node/368199755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/375733401",
+        "highway": "bus_stop",
+        "name": "Solitüde",
+        "public_transport": "platform",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4907494,
+          54.8211483
+        ]
+      },
+      "id": "node/375733401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/379561143",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Diblerstraße",
+        "operator": "AFAG",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4300689,
+          54.7730263
+        ]
+      },
+      "id": "node/379561143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/379561150",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Rude",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4308391,
+          54.774914
+        ]
+      },
+      "id": "node/379561150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/379561160",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Bahnhof/Tegelbarg",
+        "public_transport": "platform",
+        "ref_name": "Flensburg Bahnhof/Tegelbarg",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4344314,
+          54.7739809
+        ]
+      },
+      "id": "node/379561160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/402636832",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Sünderup Ringstraße",
+        "public_transport": "platform",
+        "ref": "5",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4690794,
+          54.7755221
+        ]
+      },
+      "id": "node/402636832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/402978172",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Sünderuper Weg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4564149,
+          54.7811401
+        ]
+      },
+      "id": "node/402978172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/402978894",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Sünderuper Weg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4567507,
+          54.7810046
+        ]
+      },
+      "id": "node/402978894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409751893",
+        "highway": "bus_stop",
+        "name": "Sonderburger Straße",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.418776,
+          54.8104182
+        ]
+      },
+      "id": "node/409751893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409751897",
+        "highway": "bus_stop",
+        "name": "Sonderburger Straße",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4194154,
+          54.8112861
+        ]
+      },
+      "id": "node/409751897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492269484",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg Mozartstraße",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4698472,
+          54.7929982
+        ]
+      },
+      "id": "node/492269484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492269485",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Wasserlooser Weg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4803305,
+          54.8014731
+        ]
+      },
+      "id": "node/492269485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492269488",
+        "bench": "no",
+        "bin": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Twedt",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4784813,
+          54.7971762
+        ]
+      },
+      "id": "node/492269488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315714",
+        "highway": "bus_stop",
+        "name": "Hafendamm",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4385603,
+          54.7907139
+        ]
+      },
+      "id": "node/492315714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315758",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Stadttheater",
+        "public_transport": "platform",
+        "ref": "3",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4332076,
+          54.785987
+        ]
+      },
+      "id": "node/492315758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315763",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Südermarkt",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "route_ref": "1; 3; 5; 7; 8; 12; 14",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4367549,
+          54.7822875
+        ]
+      },
+      "id": "node/492315763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315803",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Sonwik",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4524835,
+          54.8061284
+        ]
+      },
+      "id": "node/492315803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315845",
+        "highway": "bus_stop",
+        "name": "Wacholderbogen",
+        "public_transport": "platform",
+        "ref": "7",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.483923,
+          54.8170522
+        ]
+      },
+      "id": "node/492315845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315854",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Steingrund",
+        "public_transport": "platform",
+        "ref": "3",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4804717,
+          54.8185499
+        ]
+      },
+      "id": "node/492315854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315879",
+        "highway": "bus_stop",
+        "name": "Solitüder Waldhöhe",
+        "public_transport": "platform",
+        "ref": "3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4872938,
+          54.8193961
+        ]
+      },
+      "id": "node/492315879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315897",
+        "highway": "bus_stop",
+        "name": "Sportschule",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4651931,
+          54.8138045
+        ]
+      },
+      "id": "node/492315897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315931",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Twedter Feld",
+        "public_transport": "platform",
+        "ref": "3",
+        "shelter": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4863094,
+          54.816448
+        ]
+      },
+      "id": "node/492315931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315947",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Osterallee",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4615064,
+          54.8103299
+        ]
+      },
+      "id": "node/492315947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315952",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Osterallee",
+        "public_transport": "platform",
+        "ref": "3",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4621493,
+          54.8097056
+        ]
+      },
+      "id": "node/492315952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315979",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Stadion 1",
+        "public_transport": "platform",
+        "ref": "3,7,21",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4550283,
+          54.801607
+        ]
+      },
+      "id": "node/492315979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492315996",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Ziegeleistraße",
+        "public_transport": "platform",
+        "ref": "3,7",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4573839,
+          54.8050018
+        ]
+      },
+      "id": "node/492315996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492316006",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Osterallee",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4608111,
+          54.8099093
+        ]
+      },
+      "id": "node/492316006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492316043",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Stadion 2",
+        "public_transport": "platform",
+        "ref": "5",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4558502,
+          54.8019157
+        ]
+      },
+      "id": "node/492316043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/492316052",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Stadion 1",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45567,
+          54.8023739
+        ]
+      },
+      "id": "node/492316052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/556087041",
+        "highway": "bus_stop",
+        "name": "Parsevalstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.447236,
+          54.7903464
+        ]
+      },
+      "id": "node/556087041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/556093354",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Hafermarkt",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4439908,
+          54.7833744
+        ]
+      },
+      "id": "node/556093354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/655313106",
+        "highway": "bus_stop",
+        "name": "Valentinerallee",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4425212,
+          54.7683198
+        ]
+      },
+      "id": "node/655313106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812522221",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "sunset-sunrise",
+        "name": "Am Lachsbach",
+        "public_transport": "platform",
+        "ref": "1;2;7",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4218214,
+          54.8130267
+        ]
+      },
+      "id": "node/812522221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812522227",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Am Lachsbach",
+        "public_transport": "platform",
+        "ref": "1;2;3;7",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4214917,
+          54.8131817
+        ]
+      },
+      "id": "node/812522227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/847715395",
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "info": "Haltebucht an B 200.",
+        "lit": "sunset-sunrise",
+        "name": "Kupfermühle/Kiosk",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4124459,
+          54.8351295
+        ]
+      },
+      "id": "node/847715395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848880805",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Kupfermühle/Grenze",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4077273,
+          54.8379501
+        ]
+      },
+      "id": "node/848880805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848880810",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "info": "Endhaltestelle",
+        "name": "Krusau/DK",
+        "public_transport": "platform",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4024507,
+          54.8414997
+        ]
+      },
+      "id": "node/848880810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/858207073",
+        "bench": "yes",
+        "bin": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "sunset-sunrise",
+        "name": "Wassersleben Kurhaus",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4204658,
+          54.824759
+        ]
+      },
+      "id": "node/858207073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125751824",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg Angelburger Straße",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "note": "Linien 1,4,5,7,13, 1580",
+        "operator": "Aktiv Bus Flensburg GmbH, Autokraft",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4396633,
+          54.7828003
+        ]
+      },
+      "id": "node/1125751824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125751826",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg Deutsches Haus",
+        "network": "Stadtbus Flensburg",
+        "note": "Linien 1,4,5, 1580",
+        "operator": "Aktiv Bus Flensburg GmbH, Autokraft",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4377004,
+          54.7809649
+        ]
+      },
+      "id": "node/1125751826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125751842",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg Angelburger Straße",
+        "network": "NAH.SH",
+        "note": "Linien 1,4,5,7,13",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4393931,
+          54.782781
+        ]
+      },
+      "id": "node/1125751842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685909354",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Heidebogen",
+        "note": "Linie Nr. 11 &12",
+        "public_transport": "platform",
+        "ref": "11,12",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.378129,
+          54.7618259
+        ]
+      },
+      "id": "node/1685909354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1777324482",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Blasberg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4526111,
+          54.798036
+        ]
+      },
+      "id": "node/1777324482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1777324483",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Blasberg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4532492,
+          54.7982312
+        ]
+      },
+      "id": "node/1777324483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1777324484",
+        "highway": "bus_stop",
+        "name": "Bohlberg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4497523,
+          54.7951928
+        ]
+      },
+      "id": "node/1777324484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1777324485",
+        "highway": "bus_stop",
+        "name": "Bohlberg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.449457,
+          54.7952226
+        ]
+      },
+      "id": "node/1777324485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1782703592",
+        "bench": "yes",
+        "description": "Haltestelle der Linie 10 Richtung Raifeisenstraße/Tim-Kröger-Weg",
+        "highway": "bus_stop",
+        "name": "Kauslund Nordstraße",
+        "operator": "AFAG",
+        "public_transport": "platform",
+        "ref": "10",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4876319,
+          54.8026164
+        ]
+      },
+      "id": "node/1782703592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1789782027",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Mühlenfriedhof",
+        "public_transport": "platform",
+        "ref_name": "Flensburg, Mühlenfriedhof",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4215438,
+          54.7838436
+        ]
+      },
+      "id": "node/1789782027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822839867",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Adelbylund - Mühle",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4491526,
+          54.7824634
+        ]
+      },
+      "id": "node/1822839867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832121440",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "St.Jürgen Platz",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4442138,
+          54.7876952
+        ]
+      },
+      "id": "node/1832121440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1836352962",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Fruerlundholz",
+        "public_transport": "platform",
+        "route_ref": "5",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.459196,
+          54.8010486
+        ]
+      },
+      "id": "node/1836352962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868665144",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Wielandweg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4149076,
+          54.8046066
+        ]
+      },
+      "id": "node/1868665144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1874785841",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Fruerlundmühle",
+        "operator": "AFAG",
+        "public_transport": "platform",
+        "shelter": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4593313,
+          54.7906716
+        ]
+      },
+      "id": "node/1874785841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1874785842",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Fruerlundmühle",
+        "operator": "AFAG",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4592645,
+          54.7907409
+        ]
+      },
+      "id": "node/1874785842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1876277585",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Merkurstraße",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4789137,
+          54.7918285
+        ]
+      },
+      "id": "node/1876277585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1876277608",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Merkurstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4785655,
+          54.7922818
+        ]
+      },
+      "id": "node/1876277608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1876277615",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Neuer Weg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4783467,
+          54.794277
+        ]
+      },
+      "id": "node/1876277615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1876279533",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Trögelsbyer Weg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4750149,
+          54.7898585
+        ]
+      },
+      "id": "node/1876279533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1879121395",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Richard-Wagner-Straße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4659088,
+          54.7916646
+        ]
+      },
+      "id": "node/1879121395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1879121396",
+        "highway": "bus_stop",
+        "name": "Richard-Wagner-Straße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4659271,
+          54.7918264
+        ]
+      },
+      "id": "node/1879121396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1879191581",
+        "highway": "bus_stop",
+        "name": "Flensburg Brahmsstraße",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4722207,
+          54.790838
+        ]
+      },
+      "id": "node/1879191581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1882114271",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Wasserlooser Weg",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4808804,
+          54.8020425
+        ]
+      },
+      "id": "node/1882114271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1886619970",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Schottweg",
+        "public_transport": "platform",
+        "route_ref": "11",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4769046,
+          54.7994178
+        ]
+      },
+      "id": "node/1886619970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1896427858",
+        "highway": "bus_stop",
+        "name": "Friedheim",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4740059,
+          54.8055079
+        ]
+      },
+      "id": "node/1896427858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1900273798",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Rummelgang",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4285099,
+          54.7907484
+        ]
+      },
+      "id": "node/1900273798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1900273799",
+        "highway": "bus_stop",
+        "name": "Rummelgang",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4288626,
+          54.7907721
+        ]
+      },
+      "id": "node/1900273799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087896464",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Toosbüystraße",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4322004,
+          54.7906694
+        ]
+      },
+      "id": "node/2087896464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2150856465",
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Adelbylund - Mühle",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4491466,
+          54.7825783
+        ]
+      },
+      "id": "node/2150856465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2200025100",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Lise-Meitner-Straße",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4412793,
+          54.7603765
+        ]
+      },
+      "id": "node/2200025100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2200025140",
+        "highway": "bus_stop",
+        "name": "Technologiezentrum",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4469332,
+          54.76223
+        ]
+      },
+      "id": "node/2200025140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2200025149",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Toosbüystraße",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4319574,
+          54.7905599
+        ]
+      },
+      "id": "node/2200025149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2200371220",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Heideweg",
+        "operator": "Aktiv-Bus",
+        "public_transport": "platform",
+        "ref": "11,12",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3910579,
+          54.7569595
+        ]
+      },
+      "id": "node/2200371220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2200371228",
+        "highway": "bus_stop",
+        "name": "Flensburg Mühlental",
+        "operator": "Autokraft",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4018962,
+          54.7552174
+        ]
+      },
+      "id": "node/2200371228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2200371231",
+        "highway": "bus_stop",
+        "name": "Flensburg Mühlental",
+        "operator": "Autokraft",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4029661,
+          54.755662
+        ]
+      },
+      "id": "node/2200371231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2200371244",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Heideweg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3903157,
+          54.7567166
+        ]
+      },
+      "id": "node/2200371244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2203818959",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Hafermarkt",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.443854,
+          54.7835436
+        ]
+      },
+      "id": "node/2203818959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212598401",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "B1",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4375948,
+          54.785574
+        ]
+      },
+      "id": "node/2212598401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212598403",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "B2",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4375217,
+          54.7857119
+        ]
+      },
+      "id": "node/2212598403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212598405",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "B3",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4374119,
+          54.7859003
+        ]
+      },
+      "id": "node/2212598405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212598414",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "C1",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4376896,
+          54.7855281
+        ]
+      },
+      "id": "node/2212598414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212598416",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "C2",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4376129,
+          54.7857188
+        ]
+      },
+      "id": "node/2212598416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266149608",
+        "highway": "bus_stop",
+        "name": "Eckernförder Landstraße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4389423,
+          54.769729
+        ]
+      },
+      "id": "node/2266149608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266149861",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Flensburg, St. Pauli",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4350577,
+          54.7712108
+        ]
+      },
+      "id": "node/2266149861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266213458",
+        "fixme": "position",
+        "highway": "bus_stop",
+        "name": "Flensburg Martinsberg",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4353886,
+          54.7781997
+        ]
+      },
+      "id": "node/2266213458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2298281058",
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Fuchskuhle",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.435096,
+          54.7641705
+        ]
+      },
+      "id": "node/2298281058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303660936",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg Alsterbogen",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4636079,
+          54.7991984
+        ]
+      },
+      "id": "node/2303660936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303663628",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg Alsterbogen",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4634955,
+          54.7990931
+        ]
+      },
+      "id": "node/2303663628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303665595",
+        "highway": "bus_stop",
+        "name": "Flensburg Hesttoft-Süd",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.46202,
+          54.7953205
+        ]
+      },
+      "id": "node/2303665595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2307742017",
+        "highway": "bus_stop",
+        "name": "Frösleeweg",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.406148,
+          54.8055687
+        ]
+      },
+      "id": "node/2307742017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2307744881",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Ramsharde",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4110001,
+          54.8063501
+        ]
+      },
+      "id": "node/2307744881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2307746845",
+        "highway": "bus_stop",
+        "name": "Wielandweg",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4136963,
+          54.8043984
+        ]
+      },
+      "id": "node/2307746845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2312865903",
+        "highway": "bus_stop",
+        "name": "Industriehafen",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4410399,
+          54.7997886
+        ]
+      },
+      "id": "node/2312865903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2312865907",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Industriehafen",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4422909,
+          54.8003127
+        ]
+      },
+      "id": "node/2312865907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2312865913",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Sonwik",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4527327,
+          54.8059234
+        ]
+      },
+      "id": "node/2312865913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2312865920",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Seewarte",
+        "public_transport": "platform",
+        "ref": "3,7,21",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4591971,
+          54.8071024
+        ]
+      },
+      "id": "node/2312865920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2312865923",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Seewarte",
+        "public_transport": "platform",
+        "ref": "3,7,21",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4598605,
+          54.8077627
+        ]
+      },
+      "id": "node/2312865923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2316784219",
+        "highway": "bus_stop",
+        "name": "Sportschule",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4662689,
+          54.8144045
+        ]
+      },
+      "id": "node/2316784219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2329777439",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Ballastbrücke",
+        "public_transport": "platform",
+        "ref": "3,5,21",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.43838,
+          54.7930327
+        ]
+      },
+      "id": "node/2329777439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2331585430",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Förde Park Abzw.",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "ref_name": "Flensburg Abzw. Förde-Park",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.435328,
+          54.7618618
+        ]
+      },
+      "id": "node/2331585430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2331692120",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Flensburg, Friedenshügel",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4080319,
+          54.7760039
+        ]
+      },
+      "id": "node/2331692120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344518521",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg, Bahnhof/Serpentine",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4353411,
+          54.7750597
+        ]
+      },
+      "id": "node/2344518521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344518523",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Flensburg, St. Pauli",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4353427,
+          54.7711245
+        ]
+      },
+      "id": "node/2344518523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356677786",
+        "highway": "bus_stop",
+        "name": "Bahnhof Weiche",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3998089,
+          54.7576099
+        ]
+      },
+      "id": "node/2356677786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356677787",
+        "highway": "bus_stop",
+        "name": "Bahnhof Weiche",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3993529,
+          54.7579364
+        ]
+      },
+      "id": "node/2356677787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356677788",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Nikolaus-Matthiesen-Straße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3995569,
+          54.7556628
+        ]
+      },
+      "id": "node/2356677788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2377372909",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Bäckerweg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4793739,
+          54.7806018
+        ]
+      },
+      "id": "node/2377372909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2377372910",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Bäckerweg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4793315,
+          54.7807193
+        ]
+      },
+      "id": "node/2377372910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445385881",
+        "highway": "bus_stop",
+        "name": "Schottweg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4768472,
+          54.7987881
+        ]
+      },
+      "id": "node/2445385881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450679399",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Katholische Kirche",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4315106,
+          54.7871765
+        ]
+      },
+      "id": "node/2450679399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450679403",
+        "highway": "bus_stop",
+        "name": "Katholische Kirche",
+        "public_transport": "platform",
+        "shelter": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4314598,
+          54.7872943
+        ]
+      },
+      "id": "node/2450679403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555500514",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "St.Jürgen Platz",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4444854,
+          54.7875674
+        ]
+      },
+      "id": "node/2555500514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2601553141",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Ludwigstal",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4521934,
+          54.7877709
+        ]
+      },
+      "id": "node/2601553141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2601553142",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Ludwigstal",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4516013,
+          54.7876387
+        ]
+      },
+      "id": "node/2601553142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2606133358",
+        "highway": "bus_stop",
+        "name": "Keitumer Weg",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4052446,
+          54.7572595
+        ]
+      },
+      "id": "node/2606133358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2617989362",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Walzenmühle",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4278244,
+          54.7968111
+        ]
+      },
+      "id": "node/2617989362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2711176568",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Kanzleistraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.446907,
+          54.778603
+        ]
+      },
+      "id": "node/2711176568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2711181594",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Kanzleistraße",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.447506,
+          54.778742
+        ]
+      },
+      "id": "node/2711181594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2927531174",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Stadttheater",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.434546,
+          54.7862911
+        ]
+      },
+      "id": "node/2927531174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2929727980",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Nordertor",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4304209,
+          54.7958678
+        ]
+      },
+      "id": "node/2929727980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143511202",
+        "bench": "yes",
+        "bin": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Flensburg Sünderuphof",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4639756,
+          54.7751397
+        ]
+      },
+      "id": "node/3143511202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143511203",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Flensburg Adelby/Grundschule",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4662,
+          54.781254
+        ]
+      },
+      "id": "node/3143511203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143511204",
+        "bench": "no",
+        "bin": "yes",
+        "covered": "no",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Adelby Kurt-Tucholsky-Schule/ Kirche",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4658797,
+          54.7845969
+        ]
+      },
+      "id": "node/3143511204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143511205",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Franz-Schubert-Hof",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "ref_name": "Flensburg Franz-Schubert-Hof",
+        "shelter": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4698957,
+          54.7891664
+        ]
+      },
+      "id": "node/3143511205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143511206",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg Mozartstraße",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4697603,
+          54.7933834
+        ]
+      },
+      "id": "node/3143511206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143696192",
+        "highway": "bus_stop",
+        "name": "Flensburg Bredstedter Straße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4082358,
+          54.7592875
+        ]
+      },
+      "id": "node/3143696192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143696193",
+        "highway": "bus_stop",
+        "name": "Flensburg Sophienhof",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4159095,
+          54.7635569
+        ]
+      },
+      "id": "node/3143696193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3143696194",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Flensburg Zur Bleiche",
+        "operator": "Autokraft",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4251715,
+          54.7715131
+        ]
+      },
+      "id": "node/3143696194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3201352954",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Stuhrsallee",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.430174,
+          54.7817442
+        ]
+      },
+      "id": "node/3201352954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3201352955",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Stuhrsallee",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4304203,
+          54.7818338
+        ]
+      },
+      "id": "node/3201352955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3207829280",
+        "highway": "bus_stop",
+        "name": "Struvelücke",
+        "note": "Haltestelle aufgehoben 01.04.2019",
+        "public_transport": "platform",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4862836,
+          54.7794338
+        ]
+      },
+      "id": "node/3207829280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3207829283",
+        "highway": "bus_stop",
+        "name": "Struvelücke",
+        "note": "Haltestelle aufgehoben 01.04.2019",
+        "public_transport": "platform",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4853178,
+          54.7798752
+        ]
+      },
+      "id": "node/3207829283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3268938140",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Meierei",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4299928,
+          54.7713208
+        ]
+      },
+      "id": "node/3268938140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3307616878",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Neumarkt",
+        "public_transport": "platform",
+        "ref_name": "Neumarkt, Flensburg",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4353856,
+          54.7804211
+        ]
+      },
+      "id": "node/3307616878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3362458737",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Am Katharinenhof (Comenius Schule)",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4108272,
+          54.8023734
+        ]
+      },
+      "id": "node/3362458737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3362458739",
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Am Katharinenhof (Comenius Schule)",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4109381,
+          54.8022952
+        ]
+      },
+      "id": "node/3362458739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3392677827",
+        "highway": "bus_stop",
+        "name": "Hildebrandstraße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4674297,
+          54.807558
+        ]
+      },
+      "id": "node/3392677827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3450669152",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Adelbyer Kirchenweg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4558901,
+          54.7895249
+        ]
+      },
+      "id": "node/3450669152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3450669153",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Adelbyer Kirchenweg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4565198,
+          54.7898908
+        ]
+      },
+      "id": "node/3450669153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3450669154",
+        "highway": "bus_stop",
+        "name": "Hafermarkt",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4427063,
+          54.7831684
+        ]
+      },
+      "id": "node/3450669154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3450669155",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Mommsenstraße",
+        "network": "VGSF",
+        "operator": "AFAG",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4464167,
+          54.786353
+        ]
+      },
+      "id": "node/3450669155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452335627",
+        "highway": "bus_stop",
+        "name": "Tierheim",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3985618,
+          54.7815048
+        ]
+      },
+      "id": "node/3452335627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703464106",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Südermarkt",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4363697,
+          54.7824591
+        ]
+      },
+      "id": "node/3703464106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3801972283",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Flensburg Sünderuphof",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4651433,
+          54.7753381
+        ]
+      },
+      "id": "node/3801972283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3810257001",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Theodor-Storm-Straße",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4211966,
+          54.7796825
+        ]
+      },
+      "id": "node/3810257001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3810257002",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Theodor-Storm-Straße",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4226129,
+          54.7799866
+        ]
+      },
+      "id": "node/3810257002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3815562724",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Bauer Landstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4230129,
+          54.8001303
+        ]
+      },
+      "id": "node/3815562724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3948038030",
+        "bench": "no",
+        "bin": "yes",
+        "covered": "no",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Sünderup Ringstraße",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4686107,
+          54.7756381
+        ]
+      },
+      "id": "node/3948038030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3948045424",
+        "bench": "no",
+        "bin": "yes",
+        "covered": "no",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Adelby Kurt-Tucholsky-Schule/ Kirche",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4663272,
+          54.7849514
+        ]
+      },
+      "id": "node/3948045424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069593690",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "HLA Wirtschaftsschule",
+        "public_transport": "platform",
+        "ref_name": "Flensburg, HLA Wirtschaftsschule",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4196264,
+          54.7832362
+        ]
+      },
+      "id": "node/4069593690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069593691",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Mühlenfriedhof",
+        "public_transport": "platform",
+        "ref_name": "Flensburg, Mühlenfriedhof",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4224366,
+          54.7841442
+        ]
+      },
+      "id": "node/4069593691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069593744",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "check_date:shelter": "2023-03-18",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Wrangelstraße",
+        "public_transport": "platform",
+        "ref_name": "Flensburg, Wrangelstraße",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4264919,
+          54.7864012
+        ]
+      },
+      "id": "node/4069593744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069593745",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "check_date:shelter": "2023-03-18",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Wrangelstraße",
+        "public_transport": "platform",
+        "ref_name": "Flensburg, Wrangelstraße",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4268878,
+          54.786497
+        ]
+      },
+      "id": "node/4069593745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069815267",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Moltkestraße",
+        "public_transport": "platform",
+        "ref_name": "Flensburg, Moltkestraße",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4182801,
+          54.7868468
+        ]
+      },
+      "id": "node/4069815267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069815268",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Moltkestraße",
+        "public_transport": "platform",
+        "ref_name": "Flensburg, Moltkestraße",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.418573,
+          54.7874419
+        ]
+      },
+      "id": "node/4069815268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4203795102",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Gartenstadt Weiche",
+        "public_transport": "platform",
+        "ref": "11,12",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3866872,
+          54.7565504
+        ]
+      },
+      "id": "node/4203795102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4203801435",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Ochsenweg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3958667,
+          54.7625736
+        ]
+      },
+      "id": "node/4203801435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4203802593",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Försterstieg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.390798,
+          54.7594045
+        ]
+      },
+      "id": "node/4203802593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4203803589",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Gartenstadt Weiche",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3868632,
+          54.7570304
+        ]
+      },
+      "id": "node/4203803589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4203806005",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Jägerweg",
+        "operator": "Aktiv-Bus",
+        "public_transport": "platform",
+        "ref": "11,12",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3848328,
+          54.7600081
+        ]
+      },
+      "id": "node/4203806005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314410620",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Finanzamt",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4238924,
+          54.792712
+        ]
+      },
+      "id": "node/4314410620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314410621",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Finanzamt",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4239367,
+          54.7928118
+        ]
+      },
+      "id": "node/4314410621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314410622",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Flurstraße",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4188955,
+          54.7913844
+        ]
+      },
+      "id": "node/4314410622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314410623",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Flurstraße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4189008,
+          54.791461
+        ]
+      },
+      "id": "node/4314410623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314410624",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Gertrudenstraße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4208615,
+          54.7913442
+        ]
+      },
+      "id": "node/4314410624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314410625",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Gertrudenstraße",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4208722,
+          54.7914169
+        ]
+      },
+      "id": "node/4314410625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314410663",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "St. Franziskus Hospital",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.420885,
+          54.7930789
+        ]
+      },
+      "id": "node/4314410663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314410664",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "St. Franziskus Hospital",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4209292,
+          54.7931787
+        ]
+      },
+      "id": "node/4314410664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314492904",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Flurstraße",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4180948,
+          54.7916458
+        ]
+      },
+      "id": "node/4314492904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314492905",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Flurstraße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4179567,
+          54.791669
+        ]
+      },
+      "id": "node/4314492905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314492933",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Marienhölzungsweg",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4141057,
+          54.7918725
+        ]
+      },
+      "id": "node/4314492933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314492936",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Marienhölzungsweg",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4141553,
+          54.7919591
+        ]
+      },
+      "id": "node/4314492936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4477930325",
+        "highway": "bus_stop",
+        "name": "Norderallee",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4185579,
+          54.7933604
+        ]
+      },
+      "id": "node/4477930325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4477930326",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Norderallee",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4169797,
+          54.7936157
+        ]
+      },
+      "id": "node/4477930326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4589383885",
+        "bench": "yes",
+        "bin": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Nerongsallee",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4205403,
+          54.7896575
+        ]
+      },
+      "id": "node/4589383885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4589383886",
+        "bench": "no",
+        "bin": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Nerongsallee",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4205497,
+          54.7897356
+        ]
+      },
+      "id": "node/4589383886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4592613074",
+        "highway": "bus_stop",
+        "name": "Stadtpark",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4289539,
+          54.7889544
+        ]
+      },
+      "id": "node/4592613074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4592613075",
+        "highway": "bus_stop",
+        "name": "Stadtpark",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4277724,
+          54.7895405
+        ]
+      },
+      "id": "node/4592613075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4902104748",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Liebigstraße",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "ref_name": "Flensburg Liebigstraße",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4352833,
+          54.7654796
+        ]
+      },
+      "id": "node/4902104748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4902104749",
+        "highway": "bus_stop",
+        "name": "Liebigstraße",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4351499,
+          54.7662572
+        ]
+      },
+      "id": "node/4902104749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5110651821",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Am Bauernhof",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4725309,
+          54.8106806
+        ]
+      },
+      "id": "node/5110651821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5110651822",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Am Bauernhof",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.472315,
+          54.8106412
+        ]
+      },
+      "id": "node/5110651822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265689262",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Schulgang",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Gehweg liegt auf Straßenniveau. Gehweg ist eher schmal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4469172,
+          54.7844299
+        ]
+      },
+      "id": "node/5265689262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5375874807",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Parsevalstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "website": "https://www.aktiv-bus.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4476846,
+          54.7905897
+        ]
+      },
+      "id": "node/5375874807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871365",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Harrisleer Kreuz",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4102425,
+          54.7992976
+        ]
+      },
+      "id": "node/6051871365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871366",
+        "highway": "bus_stop",
+        "name": "Harrisleer Kreuz",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.409946,
+          54.7994322
+        ]
+      },
+      "id": "node/6051871366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871367",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "P+R Nordkreuz",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4106587,
+          54.798459
+        ]
+      },
+      "id": "node/6051871367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871368",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Waldstraße",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4122044,
+          54.7947151
+        ]
+      },
+      "id": "node/6051871368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871369",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Waldstraße",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4127496,
+          54.7945713
+        ]
+      },
+      "id": "node/6051871369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871370",
+        "highway": "bus_stop",
+        "name": "Burgplatz",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4241408,
+          54.7914781
+        ]
+      },
+      "id": "node/6051871370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871371",
+        "highway": "bus_stop",
+        "name": "Burgplatz",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4246878,
+          54.7919721
+        ]
+      },
+      "id": "node/6051871371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871372",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Fördebrücke",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4337545,
+          54.7896191
+        ]
+      },
+      "id": "node/6051871372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871373",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Fördebrücke",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4339779,
+          54.7897399
+        ]
+      },
+      "id": "node/6051871373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871374",
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Pielweg",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4679483,
+          54.770921
+        ]
+      },
+      "id": "node/6051871374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871375",
+        "bench": "no",
+        "bin": "no",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Pielweg",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4680116,
+          54.7711037
+        ]
+      },
+      "id": "node/6051871375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871376",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Himmelberg",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4720366,
+          54.7726059
+        ]
+      },
+      "id": "node/6051871376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871377",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Himmelberg",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4717044,
+          54.7726622
+        ]
+      },
+      "id": "node/6051871377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051871378",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Tastruper Weg",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4775916,
+          54.7753706
+        ]
+      },
+      "id": "node/6051871378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110415367",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Rathaus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4335794,
+          54.7819058
+        ]
+      },
+      "id": "node/6110415367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110415372",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "P+R Exe",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4264778,
+          54.7810851
+        ]
+      },
+      "id": "node/6110415372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6153906463",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Marienallee",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4162917,
+          54.7782442
+        ]
+      },
+      "id": "node/6153906463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6153970726",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Am Ochsenmarkt",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4153234,
+          54.7819636
+        ]
+      },
+      "id": "node/6153970726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6153970727",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Am Ochsenmarkt",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4154374,
+          54.7820502
+        ]
+      },
+      "id": "node/6153970727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6154178353",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Falkenberg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4090927,
+          54.7840142
+        ]
+      },
+      "id": "node/6154178353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6154206110",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Goerdelerstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4133198,
+          54.7844322
+        ]
+      },
+      "id": "node/6154206110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6154206111",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "name": "Goerdelerstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4133359,
+          54.7846519
+        ]
+      },
+      "id": "node/6154206111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372193508",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Junkerhohlweg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4254461,
+          54.7983402
+        ]
+      },
+      "id": "node/6372193508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372193509",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Junkerhohlweg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4253965,
+          54.7982273
+        ]
+      },
+      "id": "node/6372193509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400504266",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Bauer Landstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4228442,
+          54.8001234
+        ]
+      },
+      "id": "node/6400504266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400504267",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Terrassenstraße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4242249,
+          54.8029729
+        ]
+      },
+      "id": "node/6400504267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400504268",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Terrassenstraße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4242729,
+          54.8031635
+        ]
+      },
+      "id": "node/6400504268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6655870801",
+        "highway": "bus_stop",
+        "name": "Keitumer Weg",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.405153,
+          54.757308
+        ]
+      },
+      "id": "node/6655870801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926884659",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Schulze-Delitzsch-Straße",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4498488,
+          54.7792961
+        ]
+      },
+      "id": "node/6926884659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926884660",
+        "highway": "bus_stop",
+        "name": "Schulze-Delitzsch-Straße",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4495752,
+          54.7791507
+        ]
+      },
+      "id": "node/6926884660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926884661",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Johannismühle",
+        "public_transport": "platform",
+        "route_ref": "13",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4490629,
+          54.7809566
+        ]
+      },
+      "id": "node/6926884661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926884662",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Johannismühle",
+        "public_transport": "platform",
+        "route_ref": "13",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4494142,
+          54.7806891
+        ]
+      },
+      "id": "node/6926884662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6985381674",
+        "highway": "bus_stop",
+        "name": "Harrisleer Straße",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4180921,
+          54.7990077
+        ]
+      },
+      "id": "node/6985381674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6985381675",
+        "highway": "bus_stop",
+        "name": "Harrisleer Straße",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4177012,
+          54.798912
+        ]
+      },
+      "id": "node/6985381675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6985381676",
+        "highway": "bus_stop",
+        "name": "Taubenstraße",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4130154,
+          54.7989258
+        ]
+      },
+      "id": "node/6985381676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6985381677",
+        "highway": "bus_stop",
+        "name": "Taubenstraße",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4133312,
+          54.7988311
+        ]
+      },
+      "id": "node/6985381677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7096309790",
+        "bench": "no",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Timm-Kröger-Weg Hochhaus",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4053746,
+          54.7850025
+        ]
+      },
+      "id": "node/7096309790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7096309791",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Timm-Kröger-Weg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.407171,
+          54.7832084
+        ]
+      },
+      "id": "node/7096309791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7096309792",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Timm-Kröger-Weg",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4078656,
+          54.7833304
+        ]
+      },
+      "id": "node/7096309792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7390688859",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Tastruper Weg",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4791461,
+          54.7759632
+        ]
+      },
+      "id": "node/7390688859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7446786957",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Tarup Ortsausgang",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4885914,
+          54.777617
+        ]
+      },
+      "id": "node/7446786957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7503180411",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Flensburg Zur Bleiche",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4255944,
+          54.771628
+        ]
+      },
+      "id": "node/7503180411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7761311286",
+        "highway": "bus_stop",
+        "name": "Wittenberger Weg",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3944389,
+          54.7779997
+        ]
+      },
+      "id": "node/7761311286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855862866",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Gust.Joh.Schule",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4197647,
+          54.7939618
+        ]
+      },
+      "id": "node/8855862866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855862867",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Gust.Joh.Schule",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4198652,
+          54.793696
+        ]
+      },
+      "id": "node/8855862867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9134910713",
+        "highway": "bus_stop",
+        "name": "Steinfelder Weg",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4455632,
+          54.7656932
+        ]
+      },
+      "id": "node/9134910713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9149621763",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Flensburg, Citti-Park",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3950571,
+          54.7735404
+        ]
+      },
+      "id": "node/9149621763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9149621764",
+        "bench": "yes",
+        "bin": "no",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Flensburg, Citti-Park",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.394804,
+          54.7733305
+        ]
+      },
+      "id": "node/9149621764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9149621767",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Flensburg, Friedenshügel",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.406478,
+          54.7758527
+        ]
+      },
+      "id": "node/9149621767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9272112501",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Schleibogen",
+        "public_transport": "platform",
+        "route_ref": "5 A",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4611393,
+          54.8006453
+        ]
+      },
+      "id": "node/9272112501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9278632476",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kantstraße",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4527079,
+          54.781571
+        ]
+      },
+      "id": "node/9278632476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9285843770",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Fruerlundholz",
+        "public_transport": "platform",
+        "route_ref": "5",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4588004,
+          54.800932
+        ]
+      },
+      "id": "node/9285843770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9463241263",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Marienallee",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4152397,
+          54.7783263
+        ]
+      },
+      "id": "node/9463241263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512404176",
+        "highway": "bus_stop",
+        "name": "Fördepark",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "network:wikipedia": "de:Nahverkehrsverbund Schleswig-Holstein",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4342102,
+          54.7608837
+        ]
+      },
+      "id": "node/9512404176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518265257",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Adelby Kirche",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4652717,
+          54.7818806
+        ]
+      },
+      "id": "node/9518265257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9518265258",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Adelby Kirche",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4666908,
+          54.7819304
+        ]
+      },
+      "id": "node/9518265258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520720660",
+        "bench": "no",
+        "fixme": "position guessed",
+        "highway": "bus_stop",
+        "name": "Neuer Weg",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4786906,
+          54.7947583
+        ]
+      },
+      "id": "node/9520720660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520720666",
+        "fixme": "position guessed",
+        "highway": "bus_stop",
+        "name": "Amrumer Straße",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3976584,
+          54.7601974
+        ]
+      },
+      "id": "node/9520720666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520720670",
+        "highway": "bus_stop",
+        "name": "Flensburg Sophienhof",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4159189,
+          54.7637924
+        ]
+      },
+      "id": "node/9520720670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9522954621",
+        "highway": "bus_stop",
+        "name": "Frösleeweg",
+        "network": "Stadtbus Flensburg",
+        "operator": "Aktiv Bus Flensburg GmbH",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4060363,
+          54.8053955
+        ]
+      },
+      "id": "node/9522954621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525628222",
+        "highway": "bus_stop",
+        "name": "Franz-Schubert-Hof",
+        "operator": "AktivBus",
+        "public_transport": "platform",
+        "ref_name": "Flensburg Franz-Schubert-Hof",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4679879,
+          54.7890017
+        ]
+      },
+      "id": "node/9525628222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528501441",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Kupfermühle/Grenze",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4074015,
+          54.8377152
+        ]
+      },
+      "id": "node/9528501441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9543930882",
+        "bench": "no",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Wielandweg",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4149184,
+          54.8044092
+        ]
+      },
+      "id": "node/9543930882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574222631",
+        "bench": "yes",
+        "bin": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Wassersleben Kurhaus",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4204098,
+          54.8244717
+        ]
+      },
+      "id": "node/9574222631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574222632",
+        "highway": "bus_stop",
+        "name": "Kupfermühle Abzweigung",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41479,
+          54.8310909
+        ]
+      },
+      "id": "node/9574222632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574222633",
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Wassersleben",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4187747,
+          54.8271559
+        ]
+      },
+      "id": "node/9574222633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574222634",
+        "bench": "yes",
+        "bin": "yes",
+        "covered": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Kupfermühle Abzweigung",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "operator": "Aktiv-Bus",
+        "public_transport": "platform",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4157042,
+          54.8302256
+        ]
+      },
+      "id": "node/9574222634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9574222635",
+        "bench": "no",
+        "bin": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Wassersleben",
+        "network": "NAH.SH",
+        "network:wikidata": "Q15825147",
+        "operator": "Aktiv Bus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4188615,
+          54.8271686
+        ]
+      },
+      "id": "node/9574222635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10850650748",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Lilienthalstraße",
+        "operator": "Aktiv-Bus",
+        "public_transport": "platform",
+        "ref": "11",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.398527,
+          54.7685702
+        ]
+      },
+      "id": "node/10850650748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11083508171",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lundweg",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.427436,
+          54.7751963
+        ]
+      },
+      "id": "node/11083508171"
+    }
+  ]
+}

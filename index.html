@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <title>Nahverkehr - Stadt Flensburg</title>
+    <meta content="Statistische Daten des Sozialatalas der Stadt Flensburg" name="description">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet-src.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" rel="stylesheet">
+    <link href="main.css" rel="stylesheet">
+</head>
+<body>
+    <div class="h-screen overflow-auto bg-gray-300">
+        <div class="md:flex">
+            <div class="w-full sm:w-8/12 md:w-7/12 lg:w-9/12 h-96 overflow-hidden" id="map"></div>
+            <div class="w-full sm:w-4/12 md:w-5/12 lg:w-3/12 sm:overflow-scroll bg-gray-100" id="filter">
+                <div class="py-2 px-3">
+                    <h1 class="text-2xl md:text-3xl font-bold">Nahverkehr 2023</h1>
+                    <h2 class="text-xl md:text-2xl mb-2 md:mb-4">Stadt Flensburg</h2>
+                </div>
+                <div id="details"></div>
+                <div class="pb-2 px-3">
+                    <h3 class="text-xl md:text-2xl mb-1 md:mb-3">Nahverkehr</h3>
+                    <p class="font-mono mb-4 md:mb-8">Der Nahverkehr spielt eine entscheidende Rolle in unserem täglichen Leben. Er ermöglicht es uns, zur Arbeit zu gelangen, Freunde und Familie zu besuchen und unsere Stadt zu erkunden. Ein effizienter und gut funktionierender Nahverkehr ist daher von großer Bedeutung für die Lebensqualität im städtischen Gebiet. In den letzten Jahren hat die Verfügbarkeit von offenen Daten neue Möglichkeiten eröffnet, um den Nahverkehr zu beleuchten und ihn an die Bedürfnisse der Bürger:innen anzupassen.</p>
+                    <h3 class="text-xl md:text-2xl mb-1 md:mb-3">Aktuell</h3>
+                    <p class="font-mono mb-4 md:mb-8">Die Aktiv Bus GmbH mit Sitz in Flensburg bietet einen sehr <a class="text-blue-600 hover:text-blue-500 focus:text-blue:500" href="https://www.abfahrt-flensburg.de/nutzungsbedingungen" target="_blank">eingeschränkten Service</a> der Fahrplanauskunft an, deren Busradar und Echtzeitauskunft ist nicht nur aus Nutzersicht eine Zeitreise in die Vergangenheit, auch deren Informationspolitik ist streng reglementiert. Durch eine Öffnung dieser Informationen würden alle öffentlichen Verkehrsunternehmen und Nutzer:innen profitieren. Diese Daten umfassen Informationen über Fahrpläne, Routen, Haltestellen, Tarife und viele weitere relevante Informationen. Die Verfügbarkeit dieser Daten in maschinenlesbarer Form würde es uns Entwicklern ermöglichen, innovative Anwendungen und Services zu entwickeln, die den Nahverkehr für die Nutzer:innen verbessern.</p>
+                    <h3 class="text-xl md:text-2xl mb-1 md:mb-3">Hintergrund</h3>
+                    <p class="font-mono mb-4 md:mb-8">Wir haben uns mit folgenden Fragestellungen auseinandergesetzt, welche offenen Daten sind der Allgemeinheit über <a class="text-blue-600 hover:text-blue-500 focus:text-blue:500" href="https://overpass-turbo.eu" target="_blank">Openstreetmap</a> angeboten? Wie können diese Rohdaten optimal dargestellt werden? Wie viele Haltestellen kommen auf wie viel Einwohner im Stadtteil?</p>
+                    <h3 class="text-xl md:text-2xl mb-1 md:mb-3">Quellcode</h3>
+                    <p class="font-mono"><a class="text-blue-600 hover:text-blue-500 focus:text-blue:500" href="https://github.com/oklabflensburg/open-transport-map" target="_blank">GitHub</a></p>
+                </div>
+            </div>
+        </div>
+        <footer class="flex justify-center items-center h-[6vh] md:h-[4vh] text-sm">
+            <a class="inline-block text-gray-600 hover:text-gray-900 focus:text-gray-900" href="impressum.html">Impressum</a> <span class="inline-block text-gray-600 px-3">|</span> <a class="inline-block text-gray-600 hover:text-gray-900 focus:text-gray-900" href="impressum.html#privacypolicy">Datenschutzerklärung</a> <span class="inline-block text-gray-600 px-3">|</span> <a class="inline-block text-gray-600 hover:text-gray-900 focus:text-gray-900" href="lizenz.html">Lizenz</a>
+        </footer>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
