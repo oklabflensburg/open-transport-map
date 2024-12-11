@@ -19,3 +19,19 @@ Die Aktiv Bus GmbH mit Sitz in Flensburg bietet einen sehr eingeschränkten Serv
 ## Hintergrund
 
 Wir haben uns mit folgenden Fragestellungen auseinandergesetzt, welche offenen Daten sind der Allgemeinheit über Openstreetmap angeboten? Wie können diese Rohdaten optimal dargestellt werden? Wie viele Haltestellen kommen auf wie viel Einwohner im Stadtteil?
+
+
+---
+
+
+## How to Contribute
+
+Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) guide for details on how to get involved.
+
+
+---
+
+
+## License
+
+This repository is licensed under [CC0-1.0](LICENSE).
